@@ -3,11 +3,6 @@
 A Selenium script to make that nasty Cybercrime website easier to deal with and to scale up our reporting capacity.
 
 
-## Preview
-
-[preview.webm](https://user-images.githubusercontent.com/29645145/210195195-d5b498e3-34ac-4c53-9e8e-ee3c3ab4941c.webm)
-
-
 ## How to Use
 
 1) First write a report and collect the appropriate data. 
